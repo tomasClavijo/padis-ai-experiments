@@ -1,0 +1,52 @@
+const Categories = {
+  Fruits: "Frutas",
+  Vegetables: "Verduras",
+};
+
+class Product {
+  #name;
+  #price;
+  #category;
+  #discount;
+
+  constructor(name, price, category) {
+    if (!name || name.trim() === "") {
+      throw new Error("El nombre no puede ser vacío.");
+    }
+    if (!Number.isInteger(price) || price <= 0) {
+      throw new Error("El precio debe ser un entero positivo.");
+    }
+    if (!Object.values(Categories).includes(category)) {
+      throw new Error("Categoría inválida.");
+    }
+    this.#name = name.trim();
+    this.#price = price;
+    this.#category = category;
+  }
+
+  getName() {
+    return this.#name;
+  }
+
+  getPrice() {
+    return this.#price;
+  }
+
+  getCategory() {
+    return this.#category;
+  }
+
+  getDiscount() {
+    return this.#discount;
+  }
+
+  setDiscount(discount) {
+    this.#discount = discount;
+  }
+
+  toString() {
+    return `${this.#name} - $${this.#price} (${this.#discount}% desc.)`;
+  }
+}
+
+export { Product, Categories };

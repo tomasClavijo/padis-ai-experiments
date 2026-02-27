@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Crear una aplicación de consola en Visual Studio de nombre **DA1** utilizando C# y .NET 8.
+Crear una aplicación de consola en Visual Studio utilizando C# y .NET 8.
 
 1) Crear un proyecto de librería de clases de nombre **Dominio** y agregar una clase `Vehiculo`.  
    La clase deberá tener dos propiedades:
