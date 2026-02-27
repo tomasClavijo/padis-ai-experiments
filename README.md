@@ -11,7 +11,7 @@ El repositorio incluye, para cada estudio y ejercicio:
 
 ## Estructura
 
-- `estudio-1-feedback-formativo/`: Experimentos donde la IA actúa como **agente de retroalimentación formativa**.
+- `estudio-01-feedback-formativo/`: Experimentos donde la IA actúa como **agente de retroalimentación formativa**.
 - `estudio-2-generacion-soluciones/`: Experimentos donde la IA actúa como **solucionador de ejercicios**.
 - `estudio-3-generacion-checks/`: Experimentos donde la IA actúa como **asistente docente para la generación de checks**.
 

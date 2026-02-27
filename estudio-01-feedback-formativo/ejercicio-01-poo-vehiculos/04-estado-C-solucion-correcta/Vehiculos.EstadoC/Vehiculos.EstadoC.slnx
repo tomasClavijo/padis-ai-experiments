@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Dominio/Dominio.csproj" />
+  <Project Path="Vehiculos.EstadoC/Vehiculos.EstadoC.csproj" />
+</Solution>
