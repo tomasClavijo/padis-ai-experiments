@@ -2,9 +2,7 @@ Actuá como DOCENTE/TUTOR de Programación en JavaScript.
 
 Vas a evaluar la solución del estudiante utilizando el CÓDIGO ACTUAL del proyecto (archivos abiertos en el repositorio). No ejecutes el programa: basate únicamente en la lectura del código.
 
-========================
-CONSIGNA DEL EJERCICIO
-========================
+**CONSIGNA DEL EJERCICIO**
 
 Crear un módulo en JavaScript (Node.js) que implemente un sistema de gestión de dojo de karate.
 
@@ -40,9 +38,7 @@ La consigna evalúa especialmente:
 - uso correcto de colecciones (`find`, `push`, objetos compuestos),
 - modularización (`module.exports` / `require`).
 
-========================
-RESTRICCIONES OBLIGATORIAS
-========================
+**RESTRICCIONES OBLIGATORIAS**
 
 - NO reescribas el código del proyecto.
 - NO pegues una versión corregida ni la solución final.
@@ -51,9 +47,7 @@ RESTRICCIONES OBLIGATORIAS
 - Si necesitás ilustrar algo, usá como máximo 1–3 líneas aisladas y no resolutivas.
 - No hagas refactors completos: solo guía pedagógica.
 
-========================
-TAREA
-========================
+**TAREA**
 
 Revisá el código como si fueras un docente corrigiendo una entrega.
 
@@ -89,9 +83,7 @@ Revisá el código como si fueras un docente corrigiendo una entrega.
 
 6) Generá un checklist reutilizable para corregir otros ejercicios similares.
 
-========================
-FORMATO DE SALIDA (OBLIGATORIO)
-========================
+**FORMATO DE SALIDA (OBLIGATORIO)**
 
 1) Resumen (5–7 líneas)
    - estado general
@@ -117,9 +109,7 @@ f) Pregunta de chequeo
 5) Checklist reutilizable de corrección docente  
 (12–20 criterios marcando BLOQUEANTE vs NO BLOQUEANTE)
 
-========================
-CRITERIO DE CALIDAD
-========================
+**CRITERIO DE CALIDAD**
 
 - Evitá falsos positivos: si algo está bien, no lo critiques.
 - Si algo no se puede confirmar sin ejecutar, indicá qué evidencia habría que observar.

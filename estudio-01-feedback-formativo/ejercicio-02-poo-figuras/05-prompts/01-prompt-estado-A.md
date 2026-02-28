@@ -2,9 +2,7 @@ Actuá como DOCENTE/TUTOR de Programación Orientada a Objetos.
 
 Vas a evaluar la solución del estudiante utilizando el CÓDIGO ACTUAL del proyecto (archivos abiertos en el repositorio). No ejecutes el programa: basate únicamente en la lectura del código.
 
-========================
-CONSIGNA DEL EJERCICIO
-========================
+**CONSIGNA DEL EJERCICIO**
 
 Crear una aplicación de consola en Visual Studio de nombre Figuras.EstadoA utilizando C# y .NET 10.
 
@@ -37,9 +35,7 @@ La consigna evalúa especialmente:
 - ausencia de lógica por tipo (evitar is/as para decidir comportamiento),
 - validación de estado en constructores.
 
-========================
-RESTRICCIONES OBLIGATORIAS
-========================
+**RESTRICCIONES OBLIGATORIAS**
 
 - NO reescribas el código del proyecto.
 - NO pegues una versión corregida ni la solución final.
@@ -48,9 +44,7 @@ RESTRICCIONES OBLIGATORIAS
 - Si necesitás ilustrar algo, usá como máximo 1–3 líneas aisladas y no resolutivas.
 - No hagas refactors completos: solo guía pedagógica.
 
-========================
-TAREA
-========================
+**TAREA**
 
 Revisá el código como si fueras un docente corrigiendo una entrega.
 
@@ -87,9 +81,7 @@ Revisá el código como si fueras un docente corrigiendo una entrega.
 
 6) Generá un checklist reutilizable para corregir otros ejercicios similares.
 
-========================
-FORMATO DE SALIDA (OBLIGATORIO)
-========================
+**FORMATO DE SALIDA (OBLIGATORIO)**
 
 1) Resumen (5–7 líneas)
    - estado general
@@ -115,9 +107,7 @@ f) Pregunta de chequeo
 5) Checklist reutilizable de corrección docente  
 (12–20 criterios marcando BLOQUEANTE vs NO BLOQUEANTE)
 
-========================
-CRITERIO DE CALIDAD
-========================
+**CRITERIO DE CALIDAD**
 
 - Evitá falsos positivos: si algo está bien, no lo critiques.
 - Si algo no se puede confirmar sin ejecutar, indicá qué evidencia habría que observar.
